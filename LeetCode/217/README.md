@@ -63,10 +63,3 @@ empty set. If at any point, during this process, if the current element is alrea
 in the set, then we know that nums contains duplicate(s).
 
 In which case, we should return True. Otherwise, if all elements are added to the set with no issues, return False
-
-
-```Python
-
-
-```
-
