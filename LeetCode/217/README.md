@@ -62,5 +62,10 @@ class Solution:
 
 ```Python
 
+I think the simplist way to solve this is by adding each element in nums to an
+empty set. if at any point, when we're adding an element, if that element is already
+in the set, then we know that nums contains duplicate(s).
+    in which case, we should return True
+        otherwise, if all elements are added to the set with no issues, return False
 ```
 
