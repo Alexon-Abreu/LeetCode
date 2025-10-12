@@ -8,7 +8,7 @@
 | 167   |  Two Sum II - Input Array Is Sorted    | Medium       | [Solution](LeetCode/167)  |  Python  |
 | 1557  |  Minimum Number of Vertices to Reach All Nodes    | Medium       | [Solution](LeetCode/1557)  |  C++  |
 | 713   |  Subarray Product Less Than K    | Medium       | [Solution](LeetCode/713)  |  Python & C++  |
-| 217   |  Contains Duplicate    | Easy       | [Solution](LeetCode/)  |    |
+| 217   |  Contains Duplicate    | Easy       | [Solution](LeetCode/217)  |    |
 | 3310   |  Score of a String    | Easy       | [Solution](LeetCode/3310)  |  Python  |
 | 1929   |  Concatenation of Array    | Easy       | [Solution](LeetCode/1929)  |  Python  |
 | 1413   |  Minimum Value to Get Positive Step by Step Sum    | Easy       | [Solution](LeetCode/1413)  |  Python  |
